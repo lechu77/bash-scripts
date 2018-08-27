@@ -2,7 +2,7 @@
 
 #######################################################################################################
 #
-# create_vpc.sh by Lechu (matias@lechu.com.ar)
+# create_vpc.sh by Lechu (matias *AT* lechu.com.ar)
 # Complete next VARS in order to execute this 
 # script. This is very alpha, so feel free to
 # Include a few "if" or "case" to check or use
